@@ -1,0 +1,32 @@
+_repo: A-Influencia-Europea-na-Africa-perante-a-Civilisa--o-e-as-Rela--es-Internacionaesdenominado-d__25635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Testa, Carlos
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '31476'
+    url: http://www.gutenberg.org/2009/agents/31476
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2008-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25635'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mozambique -- History'
+- !lcc 'DT'
+- !lcsh 'Portugal -- Colonies -- Africa'
+title: 'A Influencia Europea na Africa perante a Civilisação e as Relações Internacionaes
+
+  Considerações ácerca do tratado de 30 de maio de 1879
+
+  denominado de «Lourenço Marques»'
+url: http://www.gutenberg.org/ebooks/25635
