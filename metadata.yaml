@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31476'
     url: http://www.gutenberg.org/2009/agents/31476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25635#A-Influencia-Europea-na-Africa-perante-a-Civilisa--o-e-as-Rela--es-Internacionaesdenominado-d_
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-05-29'
 gutenberg_type: Text
